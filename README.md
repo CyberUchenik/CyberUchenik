@@ -9,14 +9,9 @@
 * 🌍  Завершил курсы Java Rush
 * 🖥️  Мой профиль [Click!](http://github.com/CyberUchenik)
 * ✉️  Вы можете связаться со мной  <p align="left">
- <p align="left">
-  <a href="mailto:Kapaev00885@gmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" alt="Email" width="32" height="32" />
-  </a>
-  <a href="https://t.me/jvdvpr">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" alt="Telegram" width="32" height="32" />
-  </a>
-</p>
+ 
+![gmail](https://github.com/CyberUchenik/CyberUchenik/assets/109659988/17d30161-4617-4b6b-8c04-3039b1d0a69f)
+![minutemailer](https://github.com/CyberUchenik/CyberUchenik/assets/109659988/94d7c964-9fd5-477f-b74a-d5321ee479fe)
 
 
 
