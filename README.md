@@ -9,9 +9,9 @@
 * 🌍  Завершил курсы Java Rush
 * 🖥️  Мой профиль [Click!](http://github.com/CyberUchenik)
 * ✉️  Вы можете связаться со мной  <p align="left">
+![gmail](https://github.com/CyberUchenik/CyberUchenik/assets/109659988/17d30161-4617-4b6b-8c04-3039b1d0a69f){ width=36 height=36 }
+![minutemailer](https://github.com/CyberUchenik/CyberUchenik/assets/109659988/94d7c964-9fd5-477f-b74a-d5321ee479fe){ width=36 height=36 }
  
-![gmail](https://github.com/CyberUchenik/CyberUchenik/assets/109659988/17d30161-4617-4b6b-8c04-3039b1d0a69f)
-![minutemailer](https://github.com/CyberUchenik/CyberUchenik/assets/109659988/94d7c964-9fd5-477f-b74a-d5321ee479fe)
 
 
 
