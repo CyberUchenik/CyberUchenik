@@ -8,7 +8,15 @@
 
 * 🌍  Завершил курсы Java Rush
 * 🖥️  Мой профиль [Click!](http://github.com/CyberUchenik)
-* ✉️  Вы можете связаться со мной  [![Email](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg)](mailto:Kapaev00885@gmail.com) [![Telegram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg)](https://t.me/jvdvpr)
+* ✉️  Вы можете связаться со мной  <p align="left">
+  <a href="mailto:Kapaev00885@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" alt="Email" width="32" height="32" />
+  </a>
+  <a href="https://t.me/jvdvpr">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" alt="Telegram" width="32" height="32" />
+  </a>
+</p>
+
 
 
 * 🧠  Я изучаю Spring Boot, Spring Cloud, Gradle
