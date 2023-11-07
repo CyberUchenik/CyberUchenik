@@ -30,11 +30,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="URL_TO_SPRING_ICON" width="36" height="36" alt="Spring" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="URL_TO_JIRA_ICON" width="36" height="36" alt="Jira" /></a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><a href="URL_TO_RESTAPI_DOC" target="_blank" rel="noreferrer"><img src="URL_TO_RESTAPI_ICON" width="36" height="36" alt="RestAPI" /></a>
-<a href="URL_TO_HIBERNATE_ICON" target="_blank" rel="noreferrer"><img src="URL_TO_HIBERNATE_ICON" width="36" height="36" alt="Hibernate" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="	https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" target="_blank" rel="noreferrer"><img src="URL_TO_HIBERNATE_ICON" width="36" height="36" alt="Hibernate" /></a>
+ 
 </p>
 
 
