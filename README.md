@@ -29,14 +29,12 @@
 
 
 ### Socials
+[Telegram](https://t.me/jvdvpr)
 
 <p align="left"> 
     <a href="https://github.com/CyberUchenik" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a> 
-    <a href="https://t.me/jvdvpr" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="32" height="32" />
-    </a>
 </p>
 
 
